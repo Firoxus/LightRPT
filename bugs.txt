@@ -1,2 +1,0 @@
-Its telling you that the captcha is unsolved while it is solved?
-Dont worry its just a bug it will still bot the stuff but its just annoying to see it all the time
